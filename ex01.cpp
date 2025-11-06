@@ -13,6 +13,7 @@ int main(){
 
     cout << *p << endl;
 
+    x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;
 
-
+    return 0;
 }
